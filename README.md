@@ -4,6 +4,4 @@ MapKit is a powerful API available on iOS devices that makes it easy to display 
 
 🔘 MapKit tutorial I download it from google and modifiy it and create UI progmmatically.
 
-https://user-images.githubusercontent.com/46062128/87265223-16bf2780-c477-11ea-8547-024c728a4029.png
-
-https://user-images.githubusercontent.com/46062128/87265218-12930a00-c477-11ea-8bdc-c05cdf4e985c.png
+https://github.com/Avisa19/MapKit-Tutorial/issues/2#issue-655542927
